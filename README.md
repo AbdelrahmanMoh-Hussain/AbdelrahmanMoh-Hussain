@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me abdelrahman.mohamed7337@gmail.com
-- 💼 linkedin:: https://www.linkedin.com/in/abdelrahman-mohamed-mahmoud/
+- 💼 Linkedin:: https://www.linkedin.com/in/abdelrahman-mohamed-mahmoud/
 - 📊 Codeforces:: https://codeforces.com/profile/abdelrahmanmoh123
