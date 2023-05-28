@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Android Development
 - 📫 How to reach me abdelrahman.mohamed7337@gmail.com
 - 💼 Linkedin:: https://www.linkedin.com/in/abdelrahman-mohamed-mahmoud/
 - 📊 Codeforces:: https://codeforces.com/profile/abdelrahmanmoh123
