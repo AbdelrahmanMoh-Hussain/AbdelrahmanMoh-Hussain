@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-- 🌱 I’m currently learning **C#.NET Backend Development**
+- 🌱 I’m currently learning **C#.NET Backend Deveolpment**
 
 - 📫 How to reach me **abdelrahman.mohamed7337@gmail.com**
 
