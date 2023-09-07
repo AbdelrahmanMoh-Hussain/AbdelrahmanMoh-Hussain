@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
-- 🌱 I’m currently learning **C#.NET Backend Deveolpment**
+🌱 I’m currently learning **C#.NET Backend Development**
 
-- 📫 How to reach me **abdelrahman.mohamed7337@gmail.com**
+📫 How to reach me **abdelrahman.mohamed7337@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
