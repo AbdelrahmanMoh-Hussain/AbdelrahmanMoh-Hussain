@@ -15,7 +15,7 @@
 ## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-mohamed-mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-mohamed-mahmoud" height="30" width="40" /></a>
-  <a href="abdelrahman.mohamed7337@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3da00920-aaf8-4c7b-9647-dc510c8232ae" alt="abdelrahman-mohamed-mahmoud" height="30" width="40" /></a>
+  <a href="mailto:abdelrahman.mohamed7337@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3da00920-aaf8-4c7b-9647-dc510c8232ae" alt="abdelrahman-mohamed-mahmoud" height="30" width="40" /></a>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
