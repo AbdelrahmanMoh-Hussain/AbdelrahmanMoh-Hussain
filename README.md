@@ -4,7 +4,7 @@
 
 
 ## 💻 Languages and Tools::
-### Backend stack
+### Back-end 
 <p align="left">
   <!-- Backend Technologies -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -17,7 +17,7 @@
   <img src="https://github.com/user-attachments/assets/6fc810ed-79d3-4302-a5a4-b25b6baff1c7" alt="vs" style="width:auto;" height="40"/>
 </p>
 
-### Frontend stack
+### Front-end
 <p align="left">
   <!-- Frontend Technologies -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -28,8 +28,7 @@
   <img src="https://github.com/user-attachments/assets/f5c33daf-80e5-4c9b-81d2-691573d2a7ea" alt="ajax" style="width:auto;" height="40"/>
 </p>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)![LINQ](https://img.shields.io/badge/LINQ-%23464646.svg?style=flat)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat&logo=entity%20framework&logoColor=white)
+
 ## 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMoh-Hussain&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
