@@ -12,7 +12,7 @@
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/2742c69b-4cef-4130-abdf-5ef9cc9486c8" alt="oracle" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/2742c69b-4cef-4130-abdf-5ef9cc9486c8" alt="oracle" width="auto" height="40"/>
     <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img width="12" />
