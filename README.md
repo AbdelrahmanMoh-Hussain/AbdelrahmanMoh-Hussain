@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelrahman Mohamed Mahmoud
 ## 💫 About Me:
-🌱 I’m currently learning **C#.NET Backend Development**
+🌱 I’m currently learning **Full-Stack .NET Development**
 
 
 ## 💻 Languages and Tools::
@@ -8,30 +8,53 @@
 <p align="left">
   <!-- Backend Technologies -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img width="12" />
   <img src="https://github.com/user-attachments/assets/4c59f410-3cdb-4d08-85b5-a93d33f9fba2" alt="swagger" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/6fc810ed-79d3-4302-a5a4-b25b6baff1c7" alt="vs" style="width:auto;" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
 ### Front-end
 <p align="left">
   <!-- Frontend Technologies -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/049621df-2bfc-4b18-982e-48bdf82d60b9" alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+
+  
+  
   <img src="https://github.com/user-attachments/assets/f5c33daf-80e5-4c9b-81d2-691573d2a7ea" alt="ajax" style="width:auto;" height="40"/>
 </p>
 
 
 ## 📊 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMoh-Hussain&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanMoh-Hussain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanMoh-Hussain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
+</div>
 
 ## 🌐 Connect with Me
 <p align="left" style="margin-right:2px;"> 
