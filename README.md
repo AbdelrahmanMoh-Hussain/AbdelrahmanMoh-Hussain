@@ -18,8 +18,8 @@
 
 I'm a .NET engineer (CS, Ain Shams University, 2024) with about two years of experience building enterprise systems with **C#, ASP.NET Core and SQL Server**. My latest work experience:
 
-- 🏭 **Going Infinity** — backend for **ConveyorWorks**, a Warehouse Control System that coordinates conveyors, sorters and scanners in real time inside large distribution centers. I design and optimize SQL Server structures for high-throughput processing and build operational dashboards with ASP.NET Core and Blazor.
-- 📄 **Namaa infoLogistics** *(part-time)* — document digitization platforms: RESTful microservices with **Clean Architecture, DDD, CQRS and MediatR**, real-time features with **SignalR**, background jobs with **Hangfire**, and a .NET 6 → .NET 9 migration. One of the solutions digitized millions of physical records for a large healthcare insurance provider.
+- 🏭 **Going Infinity** *(current)* — backend for **ConveyorWorks**, a Warehouse Control System that coordinates conveyors, sorters and scanners in real time inside large distribution centers. I design and optimize SQL Server structures for high-throughput processing and build operational dashboards with ASP.NET Core and Blazor.
+- 📄 **Namaa infoLogistics**  — document digitization platforms: RESTful microservices with **Clean Architecture, DDD, CQRS and MediatR**, real-time features with **SignalR**, background jobs with **Hangfire**, and a .NET 6 → .NET 9 migration. One of the solutions digitized millions of physical records for a large healthcare insurance provider.
 
 ---
 
